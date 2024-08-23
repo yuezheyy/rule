@@ -1,1 +1,1 @@
-自用openclash规则# rule
+自用openclash规则
